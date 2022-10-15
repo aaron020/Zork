@@ -1,0 +1,1 @@
+Also including an installation file, exe folder can also be used to run the program
